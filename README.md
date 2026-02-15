@@ -1,69 +1,57 @@
 <div align="center">
 
-<h1>Hi 👋 I'm Balaji R</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Balaji%20R&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=750&lines=Cloud+Infrastructure+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Scalable+Architecture+Builder;Automation+%7C+Networking+%7C+Linux"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=800&lines=Cloud+Security+Engineer;DevOps+Automation+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Infrastructure+%7C+Security+%7C+Automation" />
 
-<br>
+<br/>
 
 <a href="https://linkedin.com/in/balaji18092001">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:balajir182001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Balaji-R-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## ☁️ About Me
+# 👨‍💻 Professional Summary
 
-- AWS Certified Solutions Architect – Associate  
-- 1.5+ Years Experience in Cloud Infrastructure  
-- Strong Networking & Linux Background  
-- Experience building scalable and secure cloud environments  
+Cloud-focused engineer with hands-on experience in designing, deploying, and managing scalable infrastructure across AWS and Azure environments. Strong foundation in Linux systems, networking, automation, and container orchestration.
 
-Focused on designing **highly available, resilient and scalable cloud architectures**
+- ☁️ AWS Certified Solutions Architect – Associate  
+- ⚙️ 1.5+ Years – Cloud Infrastructure & DevOps  
+- 🔐 Experience in Security Monitoring & Infrastructure Hardening  
+- 🌐 Strong Networking & Linux Administration  
+
+> Focused on building resilient, secure, and automated cloud platforms.
 
 ---
 
-## ☁️ Cloud Platforms
+# ☁️ Cloud & Platform Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure" />
+<img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,linux" />
 
 </div>
 
-- EC2, RDS, S3, EBS  
-- VPC (Public/Private Subnets, NAT Gateway, Security Groups)  
-- IAM Roles & Policies  
-- Auto Scaling & Load Balancer  
-- Route 53  
-- CloudWatch Monitoring  
+**Core Expertise**
+- VPC Architecture (Public/Private Subnets, NAT, SG, NACL)
+- EC2, RDS, S3, EBS
+- Load Balancer & Auto Scaling
+- IAM Policies & Role Design
+- CloudWatch Monitoring
+- Kubernetes Cluster Deployment & Pod Networking
 
 ---
 
-## ☸ Container & Platform Engineering
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,linux" />
-
-</div>
-
-- Kubernetes Cluster Deployment  
-- Containerized Application Deployment  
-- Linux Server Administration  
-- Pod Networking & Ingress  
-
----
-
-## ⚙️ Automation & IaC
+# ⚙️ DevOps & Infrastructure Automation
 
 <div align="center">
 
@@ -71,27 +59,51 @@ Focused on designing **highly available, resilient and scalable cloud architectu
 
 </div>
 
-- Infrastructure as Code (Terraform)  
-- Configuration Management (Ansible)  
-- CI/CD Pipelines  
-- Version Control  
+- Infrastructure as Code using Terraform  
+- Configuration Management with Ansible  
+- CI/CD Pipelines (Build → Test → Deploy)  
+- Containerization with Docker  
+- Git-based version control workflows  
 
 ---
 
-## 🔄 Sample Cloud Architecture
+# 🔐 Security & Monitoring Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Wazuh-111111?style=for-the-badge&color=00F7FF"/>
+<img src="https://img.shields.io/badge/ELK-111111?style=for-the-badge&color=00F7FF"/>
+<img src="https://img.shields.io/badge/Suricata-111111?style=for-the-badge&color=00F7FF"/>
+<img src="https://img.shields.io/badge/Arbor_DDoS-111111?style=for-the-badge&color=00F7FF"/>
+
+</div>
+
+- Log Aggregation & SIEM Analysis  
+- Infrastructure Threat Monitoring  
+- DDoS Detection & Mitigation  
+- Incident Triage & Root Cause Analysis  
+
+---
+
+# 🔄 Cloud Delivery Workflow
 
 ```mermaid
 flowchart LR
-    User --> Route53
-    Route53 --> LoadBalancer
-    LoadBalancer --> EC2_1
-    LoadBalancer --> EC2_2
-    EC2_1 --> RDS
-    EC2_2 --> RDS
-    EC2_1 --> S3
-    EC2_2 --> S3
+    Developer --> GitHub
+    GitHub --> Jenkins
+    Jenkins --> Docker
+    Docker --> Terraform
+    Terraform --> AWS
+    AWS --> Kubernetes
+    Kubernetes --> Monitoring
 ```
 
 ---
 
-⭐ Cloud | Infrastructure | Kubernetes | Automation | Networking
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</div>
+
+⭐ Cloud Architecture | DevOps Automation | Kubernetes | Secure Infrastructure
