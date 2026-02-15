@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi 👋 I'm Balaji R
+# Hi 👋 I'm Balaji Ramalingam
 
 ☁️ AWS Cloud Engineer | ⚙️ DevOps Enthusiast | 🔐 SOC Analyst  
 
@@ -78,8 +77,8 @@ AWS | Jenkins | Terraform | Docker | ELK | Wazuh | Suricata | Linux | Git | Serv
 
 # 📫 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
-📧 Email: yourmail@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/balaji18092001 
+📧 Email: balajir182001@gmail.com 
 
 <!--
 **Balaji-R-web/Balaji-R-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
