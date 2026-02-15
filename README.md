@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Balaji%20R&fontSize=42&fontColor=00F7FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Balaji%20Ramalingam&fontSize=42&fontColor=00F7FF&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Cloud+Security+Engineer;DevOps+Automation+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Infrastructure+%7C+Security+%7C+Automation"/>
 
