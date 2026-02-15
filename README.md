@@ -1,66 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Balaji%20R&fontSize=42&fontColor=00F7FF&animation=fadeIn"/>
+<h1>Hi 👋 I'm Balaji R</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Cloud+Security+Engineer;DevOps+Automation+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Infrastructure+%7C+Security+%7C+Automation"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=750&lines=Cloud+Infrastructure+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Scalable+Architecture+Builder;Automation+%7C+Networking+%7C+Linux"/>
 
 <br>
 
 <a href="https://linkedin.com/in/balaji18092001">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:balajir182001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Balaji-R-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+## ☁️ About Me
 
-- ☁️ AWS Certified Solutions Architect – Associate  
-- ⚙️ 1.5+ Years – Cloud Infrastructure & DevOps  
-- 🔐 SOC Analyst – Threat Monitoring & Incident Response  
-- 🌐 Strong Networking & Linux Background  
+- AWS Certified Solutions Architect – Associate  
+- 1.5+ Years Experience in Cloud Infrastructure  
+- Strong Networking & Linux Background  
+- Experience building scalable and secure cloud environments  
 
-Focused on **Cloud Security, Kubernetes, DevSecOps & Automation Engineering**
+Focused on designing **highly available, resilient and scalable cloud architectures**
 
 ---
 
-## 🚀 Tech Stack
+## ☁️ Cloud Platforms
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,jenkins,terraform,ansible,linux,git,github,bash" />
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 
 </div>
 
+- EC2, RDS, S3, EBS  
+- VPC (Public/Private Subnets, NAT Gateway, Security Groups)  
+- IAM Roles & Policies  
+- Auto Scaling & Load Balancer  
+- Route 53  
+- CloudWatch Monitoring  
+
 ---
 
-## 🔐 Security Stack
+## ☸ Container & Platform Engineering
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square"/>
-<img src="https://img.shields.io/badge/Arbor_DDoS-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Suricata-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/ELK_Stack-000000?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,linux" />
 
 </div>
 
+- Kubernetes Cluster Deployment  
+- Containerized Application Deployment  
+- Linux Server Administration  
+- Pod Networking & Ingress  
+
 ---
 
-## 🔄 DevSecOps Flow
+## ⚙️ Automation & IaC
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,git,github,bash" />
+
+</div>
+
+- Infrastructure as Code (Terraform)  
+- Configuration Management (Ansible)  
+- CI/CD Pipelines  
+- Version Control  
+
+---
+
+## 🔄 Sample Cloud Architecture
 
 ```mermaid
 flowchart LR
-    Dev --> GitHub --> Jenkins --> Docker --> Terraform --> AWS --> Kubernetes --> Monitoring --> SOC
+    User --> Route53
+    Route53 --> LoadBalancer
+    LoadBalancer --> EC2_1
+    LoadBalancer --> EC2_2
+    EC2_1 --> RDS
+    EC2_2 --> RDS
+    EC2_1 --> S3
+    EC2_2 --> S3
 ```
 
 ---
 
-⭐ Cloud | DevOps | Kubernetes | Security | Automation
+⭐ Cloud | Infrastructure | Kubernetes | Automation | Networking
